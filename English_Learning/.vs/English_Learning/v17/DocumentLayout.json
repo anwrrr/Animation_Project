@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\finalYear-1st term\\Animation\\Project\\Animation_Project\\English_Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E5345-E1EA-0420-10F7-4108642186EC}|Assembly-CSharp.csproj|d:\\finalyear-1st term\\animation\\project\\animation_project\\english_learning\\assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E5345-E1EA-0420-10F7-4108642186EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90E5345-E1EA-0420-10F7-4108642186EC}|Assembly-CSharp.csproj|d:\\finalyear-1st term\\animation\\project\\animation_project\\english_learning\\assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90E5345-E1EA-0420-10F7-4108642186EC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneManagerScript.cs",
+              "DocumentMoniker": "D:\\finalYear-1st term\\Animation\\Project\\Animation_Project\\English_Learning\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ToolTip": "D:\\finalYear-1st term\\Animation\\Project\\Animation_Project\\English_Learning\\Assets\\Scripts\\SceneManagerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManagerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:53:58.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\finalYear-1st term\\Animation\\Project\\Animation_Project\\English_Learning\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "D:\\finalYear-1st term\\Animation\\Project\\Animation_Project\\English_Learning\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:31:45.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
